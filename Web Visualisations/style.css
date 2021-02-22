@@ -1,0 +1,17 @@
+.navigation .navbar-brand {
+    color: rgb(20, 105, 105);
+    font-weight: bold;  
+}
+  
+.dropdown-item {
+color: rgb(20, 105, 105);
+}
+
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: rgb(20, 105, 105);
+}
+  
+.nav-link:hover {
+    background-color:rgb(20, 105, 105);
+}
+
